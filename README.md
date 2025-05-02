@@ -24,13 +24,7 @@ O sistema também conta com um botão de **"Zerar"**, que limpa todas as entrada
 ## ⚡ Tecnologias utilizadas
 - **HTML5** 🏗️: Estrutura da página e dos campos de entrada.
 - **CSS3** 🎨: Estilização do layout (necessário adicionar `style.css`).
-- **JavaScript** ⚡: Lógica de cálculo e manipulação do DOM.
-
-## 🚀 Melhorias futuras
-Algumas sugestões para aprimoramento do sistema incluem:
-✅ **Implementação de validações** para impedir notas inválidas ou campos vazios.  
-✅ **Exibição de mensagens de erro** para feedback do usuário.  
-✅ **Melhorias visuais e responsividade** para diferentes dispositivos.  
+- **JavaScript** ⚡: Lógica de cálculo e manipulação do DOM. 
 
 Este sistema ajuda a tornar a avaliação dos competidores mais justa, eficiente e organizada. 🚀🥋  
 
